@@ -8,3 +8,10 @@ The skills I've mastered with this project:
 - creating page structure
 - making ordered and unordered lists
 - creating multiple pages and connecting them with links
+
+Ideas and sources for recipes:
+www.treatshomemade.com
+www.joyfoodsunshine.com
+www.natashaskitchen.com
+www.bbc.co.uk/food
+www.cookingclassy.com
